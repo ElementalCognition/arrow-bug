@@ -1,0 +1,10 @@
+[package]
+name = "arrow-bug"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+arrow = "40.0"
+color-eyre = "0.6"
